@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Cognizant-Logo.png" alt="Cognizant Logo" width="300"/>
+<img src="assets/Logo_Cognizant.png" alt="Cognizant Logo" width="300"/>
 
 # Cognizant Digital Nurture 4.0 / Deep Skilling Program
 
