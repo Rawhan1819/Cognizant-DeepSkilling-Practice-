@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Replace with Cognizant logo URL -->
+<img src="assests/Cognizant-Logo.png" alt="Cognizant Logo" width="300"/>
 
-<img src="./assets/cognizant-logo.png" alt="Cognizant Logo" width="220"/>
 # Cognizant Digital Nurture 4.0 / Deep Skilling Program
 
 ### Hands-on Solutions & Practice Repository
 
-[![Java](https://img.shields.io/badge/Java-25-orange)]()
-[![SQL](https://img.shields.io/badge/SQL-Database-blue)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)]()
+![Java](https://img.shields.io/badge/Java-25-orange)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 </div>
 
