@@ -2,8 +2,7 @@
 
 <!-- Replace with Cognizant logo URL -->
 
-<img src="https://1000logos.net/cognizant-logo/" alt="Cognizant Logo" width="180"/>
-
+<img src="./assets/cognizant-logo.png" alt="Cognizant Logo" width="220"/>
 # Cognizant Digital Nurture 4.0 / Deep Skilling Program
 
 ### Hands-on Solutions & Practice Repository
