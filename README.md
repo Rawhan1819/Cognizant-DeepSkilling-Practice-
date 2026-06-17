@@ -63,35 +63,35 @@ DeepSkilling
 * [x] Exercise 2 - Factory Method Pattern
 * [x] Exercise 3 - Builder Pattern
 
-### Week 2 - Data Structures & Algorithms
+### Data Structures & Algorithms
 
 * [x] Exercise 2 - E-commerce Search Function
 * [x] Exercise 7 - Financial Forecasting
 
-### Week 3 - Advanced SQL
+### Week 2 - Advanced SQL
 
 * [x] Ranking & Window Functions
 * [x] Stored Procedures
 * [x] Functions
 * [x] Indexes
 
-### Week 4 - NUnit & Moq
+### Week 3 - NUnit & Moq
 
 * [ ] In Progress
 
-### Week 5 - Entity Framework Core
+### Week 4 - Entity Framework Core
 
 * [ ] In Progress
 
-### Week 6 - ASP.NET Core Web API
+### Week 5 - ASP.NET Core Web API
 
 * [ ] In Progress
 
-### Week 7 - Microservices
+### Week 6 - Microservices
 
 * [ ] In Progress
 
-### Week 8 - Angular
+### Week 7 - GIT & Angular
 
 * [ ] In Progress
 
