@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="assets/cog.jpg" alt="Cognizant Logo" width="300"/>
-
-# Cognizant Digital Nurture 4.0 / Deep Skilling Program
 
 ### Hands-on Solutions & Practice Repository
 
