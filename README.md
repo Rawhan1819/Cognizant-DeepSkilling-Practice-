@@ -62,23 +62,10 @@ DeepSkilling
 * [x] Exercise 1 - Singleton Pattern
 * [x] Exercise 2 - Factory Method Pattern
 * [x] Exercise 3 - Builder Pattern
-* [ ] Exercise 4 - Adapter Pattern
-* [ ] Exercise 5 - Decorator Pattern
-* [ ] Exercise 6 - Proxy Pattern
-* [ ] Exercise 7 - Observer Pattern
-* [ ] Exercise 8 - Strategy Pattern
-* [ ] Exercise 9 - Command Pattern
-* [ ] Exercise 10 - MVC Pattern
-* [ ] Exercise 11 - Dependency Injection
 
 ### Week 2 - Data Structures & Algorithms
 
-* [ ] Exercise 1 - Inventory Management
 * [x] Exercise 2 - E-commerce Search Function
-* [ ] Exercise 3 - Sorting Customer Orders
-* [ ] Exercise 4 - Employee Management
-* [ ] Exercise 5 - Task Management
-* [ ] Exercise 6 - Library Management
 * [x] Exercise 7 - Financial Forecasting
 
 ### Week 3 - Advanced SQL
