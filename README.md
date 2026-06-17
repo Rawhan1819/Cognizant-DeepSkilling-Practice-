@@ -83,10 +83,10 @@ DeepSkilling
 
 ### Week 3 - Advanced SQL
 
-* [ ] Ranking & Window Functions
-* [ ] Stored Procedures
-* [ ] Functions
-* [ ] Indexes
+* [x] Ranking & Window Functions
+* [x] Stored Procedures
+* [x] Functions
+* [x] Indexes
 
 ### Week 4 - NUnit & Moq
 
