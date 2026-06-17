@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Logo_Cognizant.png" alt="Cognizant Logo" width="300"/>
+<img src="assets/Cognizant-Logo.png" alt="Cognizant Logo" width="300"/>
 
 # Cognizant Digital Nurture 4.0 / Deep Skilling Program
 
@@ -18,16 +18,7 @@
 
 This repository contains my solutions, hands-on exercises, notes, and project implementations completed as part of the **Cognizant Digital Nurture 4.0 Deep Skilling Program**.
 
-The repository is organized week-wise and covers:
-
-* Design Patterns & Principles
-* Data Structures & Algorithms
-* Advanced SQL
-* NUnit & Moq
-* Entity Framework Core
-* ASP.NET Core Web API
-* Microservices
-* Angular
+The repository is organized week-wise and includes mandatory as well as additional hands-on exercises covering Java, SQL, .NET, ASP.NET Core, Microservices, Angular, and related technologies.
 
 ---
 
@@ -36,77 +27,130 @@ The repository is organized week-wise and covers:
 ```text
 DeepSkilling
 │
-├── Week1_DesignPatterns
+├── Week1
+│   ├── DesignPatterns
+│   ├── DataStructures
+│   ├── Notes
+│   └── README.md
 │
-├── Week2_DataStructuresAlgorithms
+├── Week2
+│   ├── AdvancedSQL
+│   │   ├── 1. SQL Exercise - Advanced concepts
+│   │   ├── 2. SQL Exercise - Index
+│   │   ├── 4. SQL Exercise - Stored procedure
+│   │   └── 5. SQL Exercise - Functions
+│   └── README.md
 │
-├── Week3_AdvancedSQL
+├── Week3
+│   ├── Entity Framework Core 8.0
+│   ├── NUnit and Moq
+│   └── README.md
 │
-├── Week4_NUnit_Moq
+├── Week4
+│   ├── ASP.NET Core 8.0 Web API
+│   └── README.md
 │
-├── Week5_EntityFrameworkCore
+├── Week5
+│   ├── Microservices Architecture using ASP.NET Core
+│   └── README.md
 │
-├── Week6_ASPNETCore_WebAPI
+├── Week6
+│   ├── GIT
+│   └── README.md
 │
-├── Week7_Microservices
+├── Week7
+│   ├── Angular
+│   └── README.md
 │
-└── Week8_Angular
+└── UpSkilling
 ```
 
 ---
 
 ## Progress Tracker
 
-### Week 1 - Design Patterns & Principles
+### Week 1 – Design Patterns & Data Structures
 
-* [x] Exercise 1 - Singleton Pattern
-* [x] Exercise 2 - Factory Method Pattern
-* [x] Exercise 3 - Builder Pattern
+#### Design Patterns
 
-### Data Structures & Algorithms
+- [x] Exercise 1 – Singleton Pattern
+- [x] Exercise 2 – Factory Method Pattern
+- [x] Exercise 3 – Builder Pattern
 
-* [x] Exercise 2 - E-commerce Search Function
-* [x] Exercise 7 - Financial Forecasting
+#### Data Structures & Algorithms
 
-### Week 2 - Advanced SQL
+- [x] Exercise 2 – E-commerce Platform Search Function
+- [x] Exercise 7 – Financial Forecasting
 
-* [x] Ranking & Window Functions
-* [x] Stored Procedures
-* [x] Functions
-* [x] Indexes
+---
 
-### Week 3 - NUnit & Moq
+### Week 2 – Advanced SQL
 
-* [ ] In Progress
+#### Mandatory Hands-on
 
-### Week 4 - Entity Framework Core
+- [x] Exercise 1 – Ranking and Window Functions
+- [x] Exercise 1 – Create Stored Procedure
+- [x] Exercise 5 – Return Data From Stored Procedure
 
-* [ ] In Progress
+#### Additional Important Hands-on
 
-### Week 5 - ASP.NET Core Web API
+- [x] Exercise 1 – Create Index
+- [x] Exercise 7 – Return Data From Scalar Function
 
-* [ ] In Progress
+---
 
-### Week 6 - Microservices
+### Week 3 – Entity Framework Core & NUnit
 
-* [ ] In Progress
+- [ ] In Progress
 
-### Week 7 - GIT & Angular
+### Week 4 – ASP.NET Core Web API
 
-* [ ] In Progress
+- [ ] In Progress
+
+### Week 5 – Microservices
+
+- [ ] In Progress
+
+### Week 6 – Git
+
+- [ ] In Progress
+
+### Week 7 – Angular
+
+- [ ] In Progress
 
 ---
 
 ## Technologies Used
 
-* Java
-* SQL Server
-* C#
-* .NET
-* ASP.NET Core
-* Entity Framework Core
-* Angular
-* Git & GitHub
+### Programming Languages
+
+- Java
+- SQL
+- C#
+
+### Frameworks & Platforms
+
+- .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- Angular
+
+### Database
+
+- MySQL
+- SQL Concepts
+- Stored Procedures
+- Functions
+- Indexing
+- Window Functions
+
+### Tools
+
+- Visual Studio Code
+- MySQL Workbench
+- Git
+- GitHub
 
 ---
 
@@ -114,20 +158,24 @@ DeepSkilling
 
 Each exercise folder contains:
 
-* Source Code
-* Output Screenshot
-* README Documentation
-* Supporting Notes (where applicable)
+- Source Code
+- Output Screenshots
+- README Documentation
+- Supporting Notes (where applicable)
 
 ---
 
 ## Author
 
-**Rawhan1819**
+**Mohammed Rawhan Ramzi**
 
 Cognizant Digital Nurture 4.0 – Deep Skilling Program
 
-GitHub Repository maintained for learning, assessment tracking, and interview preparation.
+This repository is maintained for:
 
-```
-```
+- Hands-on Practice
+- Assessment Tracking
+- Interview Preparation
+- Skill Development
+
+---
