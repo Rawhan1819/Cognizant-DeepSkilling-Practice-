@@ -1,1 +1,1 @@
-NUnit and Moq & Entity Framework core 8.0 -- week3
+ Entity Framework core 8.0 -- week3

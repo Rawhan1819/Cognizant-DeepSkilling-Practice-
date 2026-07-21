@@ -1,12 +1,4 @@
-*.class
-# .NET
-**/bin/
-**/obj/
-
-# Visual Studio
+bin/
+obj/
 .vs/
-*.user
-*.suo
-
-# VS Code
-.vscode/
+packages/
